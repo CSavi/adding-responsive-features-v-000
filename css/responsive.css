@@ -54,8 +54,8 @@
     float: none;
   }
 
-.border-right {
-  border: 0;
-}
+  .border-right {
+    border: 0;
+  }
 
 }
